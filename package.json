@@ -1,0 +1,21 @@
+{
+  "name": "node-crud",
+  "version": "1.0.0",
+  "description": "NodeJS + CRUD",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "crud"
+  ],
+  "author": "Abdul Hakim",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0",
+    "req-flash": "0.0.3"
+  }
+}
